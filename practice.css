@@ -181,5 +181,42 @@
 .all-brands{
     display: flex;
     gap: 10px;
+
+}
+
+.product4-card{
+    width: 250px;
+    height: auto;
+    border: 1px solid grey;
+    border-radius: 15px;
+}
+.prouct4-image{
+    width: 100%;
+    height: 200px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+    object-fit: cover;
+}
+.prodcut4-prices{
+    color: red;
+    font-size: 22px;
+}
+.product-main-price{
+    color: gray;
+}
+.practice{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+.product-name{
+    color: grey;
     
+}
+.product-sold{
+    color:#3f8c9e
+}
+.product4-details{
+    padding: 10px;
+
 }
