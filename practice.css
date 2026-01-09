@@ -87,3 +87,46 @@
     margin-top: 8px;
     font-size: 14px;
 }
+
+.product3-card{
+    width: 250px;
+    height: 100%;
+    border: 1px solid gray;
+    border-radius: 15px;
+}
+.product3-image{
+    height: 200px;
+    width: 100%;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.product3-details{
+    padding: 10px;
+}
+.product3-price{
+    color: red;
+    font-size: 22px;
+}
+
+.product3-main-price{
+    color: gray;
+}
+.product3-prices{
+    display: flex;
+    gap: 10px;
+    align-items: center;
+}
+
+.product3-name{
+    color: gray;
+    font-size: 18px;
+    margin-top: 4px;
+    margin-bottom: 0px;
+}it 
+
+.product3-sold{
+    color: #3f8c9e;
+    font-size: 14px;
+    margin-top: 8px;
+}
