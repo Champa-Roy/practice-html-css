@@ -220,3 +220,25 @@
     padding: 10px;
 
 }
+
+.brand4-logo{
+    width: 150px;
+    height: auto;
+    
+}
+.brand4-card{
+    background-color: #e8f0f3;
+    width: 200px;
+    height: auto;
+    padding: 20px;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.brand4-title{
+    font-size: 14px;
+    margin-top: 1px;
+}
