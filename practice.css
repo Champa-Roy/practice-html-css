@@ -145,3 +145,17 @@
     width: 150px;
     height: auto;
 }
+
+.brand2-image{
+    width: 150px;
+    height: auto;
+}
+.brand2{
+    background-color: #e8f0f3;
+    border-radius: 15px;
+    width: 200px;
+    height: 100px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
