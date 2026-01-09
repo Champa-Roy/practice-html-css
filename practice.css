@@ -1,13 +1,23 @@
-
+.all-products{
+  background-color: #e8f0f3;
+    padding: 20px;
+    border-radius: 10px;
+    
+}
+.all-products-title{
+    color: #167389;
+}
 .products{
     display: flex;
     gap: 10px;
+  
 }
 .product-card{
     width: 250px;
     height: 100%;
     border: 1px solid gray;
     border-radius: 15px;
+    background-color: white;
 }
 .product-image{
     height: 200px;
@@ -51,6 +61,7 @@
     height: 100%;
     border: 1px solid gray;
     border-radius: 15px;
+    background-color:white
 }
 .product2-image{
     width: 100%;
@@ -94,6 +105,7 @@
     height: 100%;
     border: 1px solid gray;
     border-radius: 15px;
+    background-color: white;
 }
 .product3-image{
     height: 200px;
@@ -161,9 +173,6 @@
 }
 
 
-
-
-
 .brand3{
     width: 200px;
     height: 100px;
@@ -180,6 +189,7 @@
 }
 .all-brands{
     display: flex;
+    justify-content: center;
     gap: 10px;
 
 }
